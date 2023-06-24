@@ -8,7 +8,7 @@
     "nmlgc/base_tasofro",
     "nmlgc/script_latin",
     "nmlgc/eastern_name_order_hepburn",
-    "lang_en"
+    "thpatch/lang_en"
   ],
   "title": "Character names in the eastern name order for the english patch",
   "update": true
