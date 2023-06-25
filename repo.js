@@ -1,6 +1,6 @@
 {
     "id": "yova",
-    "title": "Yova's Repository",
+    "title": "Yova's Repository of Hirokawa Ghost",
     "contact": "yoyova@yova.8shield.net",
     "servers": [
         "https://mirrors.thpatch.net/yova/"
