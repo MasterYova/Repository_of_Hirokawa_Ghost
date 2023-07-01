@@ -11,6 +11,6 @@
     "nmlgc/western_name_order",
     "nmlgc/eastern_name_order_hepburn"
   ],
-  "title": "Character names in the eastern name order for the english patch",
+  "title": "Japanese character's names in the eastern name order(last name first) for the english patch",
   "update": true
 }
