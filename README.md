@@ -3,7 +3,7 @@ A Touhou patch repository by Yova.
 
 ## en-eastern
 
-Japanese characters' names written in the eastern order(last name first).
+Japanese characters' names written in the eastern order(last name first) for the english patch.
 
 ## kuchko
 
