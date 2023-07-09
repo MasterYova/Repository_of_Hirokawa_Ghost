@@ -9,6 +9,7 @@
         "https://srv.thpatch.net/"
     ],
     "patches": {
-        "en-eastern": "Character names in the eastern name order for the english patch"
+        "en-eastern": "Character names in the eastern name order for the english patch",
+        "kuchko": "Prevod Alisine i Marisine \"bitch\" rečenice na srpski(latinicu) u TH08."
       }
 }
