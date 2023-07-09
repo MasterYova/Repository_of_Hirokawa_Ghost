@@ -13,4 +13,5 @@
     "th06 Stats ReimuA": "Hakurei Reimu (Spirit)",
     "th06 Stats ReimuB": "Hakurei Reimu (Dream)",
     "th06 Stats MarisaA": "Kirisame Marisa (Magic)",
-    "th06 Stats MarisaB": "Kirisame Marisa (Love)"
+    "th06 Stats MarisaB": "Kirisame Marisa (Love)",
+    "th07 Stats Play Count": "<tl$Play Count\t$Hakurei Reimu (Spirit)\t $Hakurei Reimu (Dream)\t $Kirisame Marisa (Magic)\t $Kirisame Marisa (Love)\t $Izayoi Sakuya (Illusion)\t $Izayoi Sakuya (Time)\t> Easy\t Norm\t Hard\t Luna\t Extra\t Total"
