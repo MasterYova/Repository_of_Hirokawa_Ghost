@@ -1,3 +1,4 @@
+{
     "th07 Stats ReimuA": "Hakurei Reimu (Spirit)",
     "th07 Stats ReimuB": "Hakurei Reimu (Dream)",
     "th07 Stats MarisaA": "Kirisame Marisa (Magic)",
@@ -16,3 +17,4 @@
     "th06 Stats ReimuB": "Hakurei Reimu (Dream)",
     "th06 Stats MarisaA": "Kirisame Marisa (Magic)",
     "th06 Stats MarisaB": "Kirisame Marisa (Love)"
+}
