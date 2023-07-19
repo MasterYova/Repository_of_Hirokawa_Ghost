@@ -295,3 +295,4 @@
         "＊Always equipped during the Extra Stage",
         "＊Can't be equipped outside of the Extra Stage"
     ]
+}
