@@ -11,5 +11,6 @@
     "patches": {
         "en-eastern": "Japanese characters' names in the eastern name order(last name first) for the english patch",
         "kuchko": "Prevod Alisine i Marisine \"bitch\" rečenice na srpski(latinicu) u TH08."
+        "jouga": "Changes "Chang'e" into "Jouga".
       }
 }
