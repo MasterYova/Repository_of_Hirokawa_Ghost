@@ -11,3 +11,6 @@ Prevod Alisine i Marisine "bitch" rečenice na srpski(latinicu) u TH08.
 
 Translation of Alice and Marisa's "bitch" lines to Serbian(latin) in TH08.
 
+## jouga
+
+Replaces "Chang'e" with "Jouga" as is in the furigana in the original game for those who like Japanese names more than the Chinese ones.
