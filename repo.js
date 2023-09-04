@@ -12,5 +12,5 @@
 		"en-eastern": "Japanese characters' names in the eastern name order(last name first) for the english patch",
 		"jouga": "Replaces Chang'e with Jouga in LOLK(TH15).",
 		"kuchko": "Prevod Alisine i Marisine \"bitch\" rečenice na srpski(latinicu) u TH08."
-	},
+	}
 }
