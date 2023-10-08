@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"thpatch/lang_sr"
+		"thpatch/base_tsa"
 	],
 	"id": "kuchko",
 	"servers": [
