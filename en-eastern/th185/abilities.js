@@ -1,6 +1,6 @@
 {
     "_0": [
-        "Kirisame Mairsa's ability to throw giant stars.",
+        "Kirisame Marisa's ability to throw giant stars.",
         "\"Reimu, I'm throwin' star plushies today.\"",
         "\"What happened to you? Did you get hit in the head?\"",
         "\"They say if you have these stars, you'll be invincible.",
