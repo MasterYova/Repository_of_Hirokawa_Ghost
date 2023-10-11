@@ -7,14 +7,6 @@
         "I bought a buncha them on the Black Market, but those were all fakes.\"",
         "\"Who'd ever believe such a thing?\""
     ],
-    "3_0": [
-        "A card that gives you 1 more life.",
-        "",
-        "A simple and useful card.",
-        "You're not sure whose life is contained within it,",
-        "but let's just accept it gratefully.",
-        "*Cannot be equipped by default."
-    ],
     "39_0": [
         "Yakumo Yukari's ability to let you freely warp between screen edges.",
         "Press the card-use button on the edge of the screen, and you'll warp to the other edge.",
@@ -49,7 +41,6 @@
         "Kappa can stretch their arms out, so this is clearly",
         "taking advantage of that fact to scoop up items."
     ],
-    "20": "Offerings to the Mountain God",
     "20_0": [
         "Yasaka Kanako's ability to collect every last thing offered to the mountain.",
         "The item autocollect line is drastically lowered!",
@@ -120,7 +111,6 @@
         "An ability well-suited for the long, drawn-out battles.",
         "Shall we relax and smoke some tobacco?"
     ],
-    "24": "Sutra of Dharmatic Power",
     "24_0": [
         "Hijiri Byakuren's ability to increase the radius of your magic circle.",
         "You need your magic circle both to produce Bullet Money and to slow down bullets,",
@@ -203,7 +193,6 @@
         "I can buy anything I want! Well, as long as it's sold at the Black Market!",
         "Hmmm... You sure I can't use this for mail-order stuff...?"
     ],
-    "30": "Reliable Tanuki Apprentice",
     "30_0": [
         "Futatsuiwa Mamizou's ability to increase your main shots by 3.",
         "Dang, these guys really are reliable.",
@@ -232,19 +221,13 @@
         "Nudging your way through danmaku is for wimpy showboaters!",
         "If you're really powerful, you just need to burn everything down."
     ],
-    "46_0": [
-        "An ability card that summons Lily White when used.",
-        "She's got a small fortune on her.",
-        "Somehow, she's managed to get tons of money and Bullet Money! Defeat her and take it all!",
-        "Just be careful, because she shoots bullets at you too.",
-        "Every time you summon her, she gets stronger!"
     ],
     "33_0": [
         "Shiki Eiki's ability to nullify a death by spending your Bullet Money.",
         "If you get hit with 300 or more Bullet Money on hand,",
         "you can spend it all and come back to life!",
         "Depending on how much money you've got, you can return to the mortal realm.",
-        "That's right! The most corrupt people in Gensokyo are the Yama!"
+        "That's right! The most corrupt people in Gensoukyou are the Enma!"
     ],
     "7_0": [
         "Hakurei Reimu's ability to shoot youkai-vanquishing needles.",
@@ -324,7 +307,6 @@
         "Enemies get bulkier in the lategame, so it may end up being fairly useful.",
         "If you bring a centipede to an endurance match, the centipede always wins!"
     ],
-    "53": "Offensive Jeweled Pagoda",
     "53_0": [
         "Toramaru Shou's ability to shoot lasers diagonally.",
         "Shooting lasers isn't Marisa's special privilege!",
@@ -357,7 +339,6 @@
         "*Cannot be equipped by default.",
         "*Does not change the difficulty of bosses."
     ],
-
     "62_0": [
         "Haniyasushin Keiki's ability to convert Funds into 3 times as much Bullet Money.",
         "You don't have enough Bullet Money?",
@@ -462,7 +443,6 @@
         "I used to throw seat cushions back in the day.\"",
         "\"Oh, yeah... Wait, those were <i$seat cushions>?\""
     ],
-    "84": "Teacup Marisa",
     "84_0": [
         "Kirisame Marisa's ability to throw giant stars.",
         "\"Reimu, I'm throwin' star plushies today.\"",
