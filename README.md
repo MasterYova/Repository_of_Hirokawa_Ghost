@@ -14,3 +14,13 @@ Translation of Alice and Marisa's "bitch" lines to Serbian(latin) in TH08.
 ## jouga
 
 Replaces "Chang'e" with "Jouga" as is in the furigana in the original game for those who like Japanese names more than the Chinese ones.
+
+## shikieiki
+
+Merges Shiki Eiki's name back to Shikieiki like in the original game(and the old translation patch).
+
+## shikieiki-sr
+
+Spaja Šiki Eiki nazad u Šikieiki(srpski latinični prevod).
+
+Merges Shiki Eiki's name back to Shikieiki(latin Serbian tranlation).
