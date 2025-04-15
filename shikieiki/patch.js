@@ -1,7 +1,4 @@
 {
-	"dependencies": [
-		"thpatch/lang_en"
-	],
 	"id": "shikieiki",
 	"servers": [
 		"https://mirrors.thpatch.net/yova/shikieiki"
