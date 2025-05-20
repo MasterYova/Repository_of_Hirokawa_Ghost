@@ -7,5 +7,5 @@
                 "nmlgc/base_tsa",
                 "nmlgc/base_tasofro"
   ],
-	"title":"Common resource for shikieiki patches."
+	"title":"The common resource for shikieiki patches."
 }
