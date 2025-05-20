@@ -5,7 +5,7 @@
     ],
 		"dependencies": [
 		"yova/shikieiki-common",
-                "thpatch/lang_en"
+                "thpatch/lang_en-literal"
   ],
-	"title":"Merges Shiki Eiki's name back to Shikieiki."
+	"title":"Merges Shiki Eiki's name back to Shikieiki(for the Literal English translation)."
 }
