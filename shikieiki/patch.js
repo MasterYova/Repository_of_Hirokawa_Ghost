@@ -4,7 +4,8 @@
 		"https://mirrors.thpatch.net/yova/shikieiki"
     ],
 		"dependencies": [
-                "thpatch/lang_en-literal"
+		"yova/shikieiki-common",
+                "thpatch/lang_en"
   ],
-	"title":"Merges Shiki Eiki's name back to Shikieiki(dependent on the Literal English translation)."
+	"title":"Merges Shiki Eiki's name back to Shikieiki."
 }
