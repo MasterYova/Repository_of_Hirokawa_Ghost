@@ -1,7 +1,7 @@
 {
-	"id": "shikieiki-common",
+	"id": "shikieiki",
 	"servers": [
-		"https://mirrors.thpatch.net/yova/shikieiki-common"
+		"https://mirrors.thpatch.net/yova/shikieiki"
     ],
 		"dependencies": [
                 "nmlgc/base_tsa",
