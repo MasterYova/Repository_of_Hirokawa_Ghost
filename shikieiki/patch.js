@@ -4,8 +4,8 @@
 		"https://mirrors.thpatch.net/yova/shikieiki"
     ],
 		"dependencies": [
-		"yova/shikieiki-common",
-                "thpatch/lang_en"
+                "nmlgc/base_tsa",
+                "nmlgc/base_tasofro"
   ],
-	"title":"Merges Shiki Eiki's name back to Shikieiki."
+	"title":"Common resource for shikieiki patches."
 }
