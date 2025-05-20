@@ -17,7 +17,7 @@ Replaces "Chang'e" with "Jouga" as is in the furigana in the original game for t
 
 ## shikieiki
 
-Merges Shiki Eiki's name back to Shikieiki like in the original game(and the old translation patch, dependent on the Literal English translation).
+Merges Shiki Eiki's name back to Shikieiki like in the original game(and the old translation patch).
 
 ## shikieiki-sr
 
