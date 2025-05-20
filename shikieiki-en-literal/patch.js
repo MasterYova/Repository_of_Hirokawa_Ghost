@@ -1,5 +1,5 @@
 {
-	"id": "shikieiki",
+	"id": "shikieiki-en-literal",
 	"servers": [
 		"https://mirrors.thpatch.net/yova/shikieiki"
     ],
