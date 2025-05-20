@@ -1,7 +1,7 @@
 {
 	"id": "shikieiki-en",
 	"servers": [
-		"https://mirrors.thpatch.net/yova/shikieiki"
+		"https://mirrors.thpatch.net/yova/shikieiki-en"
     ],
 		"dependencies": [    
 		            "yova/shikieiki-common",
