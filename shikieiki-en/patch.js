@@ -7,5 +7,5 @@
 		            "yova/shikieiki-common",
                             "thpatch/lang_en"
   ],
-	"title":"Merges Shiki Eiki's name back to Shikieiki(for the main English translation)."
+	"title":"Merges Shiki Eiki's name back to Shikieiki(for the English translation)."
 }
