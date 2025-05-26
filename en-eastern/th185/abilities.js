@@ -221,7 +221,6 @@
         "Nudging your way through danmaku is for wimpy showboaters!",
         "If you're really powerful, you just need to burn everything down."
     ],
-    ],
     "33_0": [
         "Shiki Eiki's ability to nullify a death by spending your Bullet Money.",
         "If you get hit with 300 or more Bullet Money on hand,",
