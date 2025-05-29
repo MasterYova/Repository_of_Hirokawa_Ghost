@@ -279,13 +279,5 @@
         "but if you die or use a Spell Card, you'll go back to normal.",
         "You have more reason to be frugal with your Spell Cards, which gives you a tingly feeling.",
         "That's the centipede's toxin at work."
-    ],
-    "55_0": [
-        "A magic item that lets you breathe even in low-oxygen areas.",
-        "Some humans think that dungeons have breathable oxygen",
-        "just like everywhere else, but that's a big misassumption.",
-        "The only ones who can breathe easy in dungeons are video game characters.",
-        "＊Always equipped during the Extra Stage",
-        "＊Can't be equipped outside of the Extra Stage"
     ]
 }
