@@ -131,7 +131,7 @@
         "Kochiya Sanae's ability to fire frog-shaped shots.",
         "",
         "It's the Moriya Shrine's popular amulet.",
-        "One of Sanae Kochiya's abilities...",
+        "One of Kochiya Sanae's abilities...",
         "or rather, something Suwako gave to her.",
         "A good-luck charm to ensure your safe return home."
     ],
