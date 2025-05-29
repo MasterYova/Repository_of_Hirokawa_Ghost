@@ -52,7 +52,7 @@
         "Can shoot snake bullets that bite at the enemies.",
         "One of Kochiya Sanae's abilities...",
         "",
-        "or rather, something Kanako Yasaka gave to her.",
+        "or rather, something Yasaka Kanako gave to her.",
         "People say that holding this charm gives you a healthier body."
     ],
     "16_0": [
