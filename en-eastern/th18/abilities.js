@@ -238,13 +238,6 @@
         "Nudging your way through danmaku is for wimpy showboaters!",
         "If you're really powerful, you just need to burn everything down."
     ],
-    "48_0": [
-        "An ability card that summons Lily White when used.",
-        "She's an item carrier.",
-        "She either holds a Spell Card fragment or a life fragment.",
-        "But be careful, because she shoots bullets at you too!",
-        "Every time you summon her, she gets stronger!"
-    ],
     "49_0": [
         "Horikawa Raiko's ability to wipe away enemy bullets at close range.",
         "It's plain, but you can thwack it over and over!",
