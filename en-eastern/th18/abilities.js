@@ -279,5 +279,12 @@
         "but if you die or use a Spell Card, you'll go back to normal.",
         "You have more reason to be frugal with your Spell Cards, which gives you a tingly feeling.",
         "That's the centipede's toxin at work."
+    ],
+    "0_0": [
+        "An Ability Card with nothing written on it.",
+        "Tenkyuu Chimata's ability. In exchange for all of your money,",
+        "you immediately obtain only the rare cards that are available in the next shop.",
+        "In the event that you obtain this card, all the cards",
+        "you currently have will instantly be discarded."
     ]
 }
